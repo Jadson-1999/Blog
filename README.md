@@ -3,4 +3,7 @@
 
 Blog Padrões de Projeto Internet 
 
-###Jadson Moreira Matias Filho
+----------------------------
+Developed by
+----------------------------
+[Jadson Moreira Matias Filho](https://www.facebook.com/jadson.morera.3) 🇧🇷  
